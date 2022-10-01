@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/03 11:07:29.000.755,=C:\Users\Umang\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/10 11:54:44.000.295,=C:\Users\Umang\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/10 11:55:42.000.230,E:\Mandar_Delphitraining\NumCalculator\frmCalculator_u.dfm=C:\Users\Umang\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/08/10 11:55:42.000.845,E:\Mandar_Delphitraining\NumCalculator\Project3.dproj=C:\Users\Umang\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2022/08/10 11:55:42.000.230,E:\Mandar_Delphitraining\NumCalculator\frmCalculator_u.pas=C:\Users\Umang\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
